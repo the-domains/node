@@ -2,6 +2,7 @@ name: node
 favicon: null
 layout_spectrum: 0.16076951031573117
 typography_spectrum: 0.8378356157336384
+title: The Grid - Node
 cta:
   domain: null
   bucket: null
